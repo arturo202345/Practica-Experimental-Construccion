@@ -1,10 +1,11 @@
 Detección de objetos (mascarillas, cascos, celulares, etc.).
 
 AUTORES:
-Layla Veliz Bajaña
-Cesar Manobanda Figueroa
-Vianlee Ledesma Ramirez
-Fernando Zavala Cataña
+
+Layla Veliz Bajaña,
+Cesar Manobanda Figueroa,
+Vianlee Ledesma Ramirez,
+Fernando Zavala Cataña,
 Laddy Rocha Leon
 
 Paso 1
