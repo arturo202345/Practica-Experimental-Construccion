@@ -14,6 +14,7 @@ Iniciar el servidor con el comando: python manage.py runserver
 
 Paso 2
 Mostrar objetos a la camara que quieran ser detectados, no todos los objetos pueden estar en el dataset,
+
 Listado de objetos:
 
 "person": "persona", "bicycle": "bicicleta", "car": "auto", "motorcycle": "motocicleta",
