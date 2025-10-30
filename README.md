@@ -9,10 +9,12 @@ Fernando Zavala Cataña,
 Laddy Rocha Leon
 
 Paso 1
+
 Iniciar el servidor con el comando: python manage.py runserver
 (debe estar habilitada la camara), una vez iniciado el servidor dirigir al link de la pagina
 
 Paso 2
+
 Mostrar objetos a la camara que quieran ser detectados, no todos los objetos pueden estar en el dataset,
 
 Listado de objetos:
